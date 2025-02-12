@@ -4,7 +4,7 @@
 
 ## Verkefni
 
-Í þessu verkefni verður útfærður REST API með Java spring með React framenda og verður hann settur upp í hýsingu.
+Í þessu verkefni verður útfærður REST API með Java spring, framendi verður útfærður með React og verður hann settur upp í hýsingu.
  
 ### Matskvarði
 - 30% React framendi útfærður
