@@ -33,7 +33,7 @@ Kynning verður haldin fyrir þetta verkefni eftir skil þess í einum af 4 kynn
 
 Í þessu verkefni verður útfærður vefur sem gerir skráðum notendum kleift að búa til, geyma og stjórna glósupökkum á skipulagðan og aðgengilegan hátt. Notendur geta valið að halda glósupökkunum sínum fyrir sig eða deila þeim með öðrum á síðunni. Vefurinn mun innihalda aðgangsstýringu til að tryggja að aðeins réttir aðilar hafi aðgang að viðeigandi glósum og upplýsingum.
 
-Markmið verkefnisins er að hanna og þróa þægilegt og notendavænt kerfi sem einfaldar utanumhald á glósum, hvort sem notendur vilja nota það til persónulegra minnisatriða eða til að deila þekkingu með öðrum. Kerfið mun samanstanda af React framenda, Java Spring REST API og SQL gagnagrunni til að tryggja skilvirkni, útlit og örugga gagnageymslu. Þar að auki verður CI/CD ferli sett upp.
+Markmið verkefnisins er að hanna og þróa þægilegt og notendavænt kerfi sem einfaldar utanumhald á glósum, hvort sem notendur vilja nota það til persónulegra glósa eða til að deila glósunum sínum með öðrum. Kerfið mun samanstanda af React framenda, Java Spring REST API og SQL gagnagrunni til að tryggja skilvirkni, útlit og örugga gagnageymslu. Þar að auki verður CI/CD ferli sett upp.
 
 ### Útfærsla
 
