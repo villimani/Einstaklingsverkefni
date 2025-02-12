@@ -17,7 +17,7 @@
 
 ### Tímaáætlun
 
-- Vikur 6 - 9: Api og framendi verða útfærð ásamt því að gagnagrunnur er uppsettur ég býst við að þetta verði tímafrekasti partur verkefnisinns og því er bróður partur þess unnið á þessum tímaunnið er í skýrslu einnig.
+- Vikur 6 - 9: Api og framendi verða útfærð ásamt því að gagnagrunnur er uppsettur ég býst við að þetta verði tímafrekasti partur verkefnisinns og því er bróður partur þess unnið á þessum tíma unnið er einnig í skýrslu.
 - Vika 10: Vefþjónusta sett upp í hýsingu unnið er í skýrslu einnig. 
 - Vika 11-13: Skýrsla verður kláruð.
 
