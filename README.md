@@ -8,7 +8,7 @@
  
 ### Matskvarði
 - 30% React framendi útfærður
-- 40% Java spring REST API framkvæmdur 
+- 40% Java spring REST API útfærður
 - 10% SQL gagnagrunnur útfærður
 - 20% Vefþjónusta sett upp í hýsingu með CI/CD ferlum
 
